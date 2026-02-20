@@ -1,6 +1,6 @@
-name : Testing github workflow
+name: Testing github workflow
 
-on : push
+on: push
 
 jobs:
   init:
